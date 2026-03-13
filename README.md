@@ -1,6 +1,6 @@
 # 이정엽 (Lee Jungyeop)
 
-울산대학교 AI융합전공
+AI Convergence @ University of Ulsan
 
 ---
 
@@ -8,11 +8,14 @@
 
 Interested in turning LLMs into real-world services.
 
+### Awards
+
+- 🏆 울산대 × HD한국조선해양 DT인력양성과정 대상 (건설현장 작업자 검출, 2025)
+- 🏆 울산대 × HD현대중공업 AI 해커톤 사업대표상 (덕트 정압 손실 시각화, 2025)
+
 ### Certifications
 
 - 🏅 LG Aimers 7기 수료 (Data Intelligence · LG AI연구원, 2025.08)
-- 🏆 울산대 × HD한국조선해양 DT인력양성과정 대상 (건설현장 작업자 검출, 2025)
-- 🏆 울산대 × HD현대중공업 AI 해커톤 사업대표상 (덕트 정압 손실 시각화, 2025)
 
 ### Currently
 
