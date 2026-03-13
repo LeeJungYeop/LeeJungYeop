@@ -12,6 +12,7 @@ NL2SQL, RAG, Agentic AI를 공부하고 있습니다.
 ### Certifications
 
 - 🏅 LG Aimers 7기 수료 (Data Intelligence · LG AI연구원, 2025.08)
+- 🏆 울산대 × HD한국조선해양 DT인력양성과정 대상 (건설현장 작업자 검출, 2025)
 
 ### Currently
 
