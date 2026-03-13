@@ -13,7 +13,7 @@ NL2SQL, RAG, Agent 등 LLM을 실제 문제에 적용하는 것을 공부하고 
 
 - 📖 Hands-On RAG for Production
 - 📖 Agentic Design Patterns
-- 🔨 [BridgeSQL](https://github.com/LeeJungYeop/BridgeSQL) — Semantic Query Engine (MCP 기반 NL2SQL)
+- 🔨 BridgeSQL — 데이터 정의서 기반 NL2SQL MCP 서버
 
 ### Tech Stack
 
