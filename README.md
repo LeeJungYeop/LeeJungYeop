@@ -1,13 +1,13 @@
 # 이정엽 (Lee Jungyeop)
 
-AI 융합전공 · AI Engineer
+AI 융합전공
 
 ---
 
 ### About Me
 
-자연어로 데이터를 다루는 시스템에 관심이 많습니다.
-NL2SQL, RAG, Agent 등 LLM을 실제 문제에 적용하는 것을 공부하고 있습니다.
+LLM을 실제 서비스로 만드는 데 관심이 있습니다.
+NL2SQL, RAG, Agentic AI를 공부하고 있습니다.
 
 ### Currently
 
