@@ -33,6 +33,4 @@ Interested in turning LLMs into real-world services.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logoColor=white)
 
----
 
-📧 goal_lsy@naver.com
