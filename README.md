@@ -6,8 +6,7 @@
 
 ### About Me
 
-LLM을 실제 서비스로 만드는 데 관심이 있습니다.
-NL2SQL, RAG, Agentic AI를 공부하고 있습니다.
+Interested in turning LLMs into real-world services.
 
 ### Certifications
 
@@ -17,11 +16,9 @@ NL2SQL, RAG, Agentic AI를 공부하고 있습니다.
 
 ### Currently
 
-- 🔬 DAIS Lab @ 울산대 (2024.12 ~)
-
-- 📖 Hands-On RAG for Production
-- 📖 Agentic Design Patterns
-- 🔨 BridgeSQL — 데이터 정의서 기반 NL2SQL MCP 서버
+- 🔬 DAIS Lab @ Ulsan Univ. (2024.12 ~)
+- 🔨 Building an NL2SQL MCP server
+- 📖 Exploring RAG & Agentic AI
 
 ### Tech Stack
 
@@ -32,10 +29,6 @@ NL2SQL, RAG, Agentic AI를 공부하고 있습니다.
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logoColor=white)
-
-### Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeeJungYeop&show_icons=true&theme=default&hide_border=true)
 
 ---
 
