@@ -17,9 +17,29 @@ NL2SQL, RAG, Agentic AI를 공부하고 있습니다.
 
 ### Currently
 
+- 🔬 DAIS Lab @ 울산대 (2024.12 ~)
+
 - 📖 Hands-On RAG for Production
 - 📖 Agentic Design Patterns
 - 🔨 BridgeSQL — 데이터 정의서 기반 NL2SQL MCP 서버
+
+### Papers
+
+**Computer Vision**
+- Redmon et al. (2016) — You Only Look Once: Unified, Real-Time Object Detection
+- Chen et al. (2020) — A Simple Framework for Contrastive Learning of Visual Representations (SimCLR)
+- Cao et al. (2024) — Deep Industrial Image Anomaly Detection: A Survey
+- Yang et al. (2024) — IM-IAD: Industrial Image Anomaly Detection Benchmark in Manufacturing
+
+**Road to LLM**
+- Pascanu et al. (2013) — On the Difficulty of Training Recurrent Neural Networks
+- Chung et al. (2014) — Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling
+- Vaswani et al. (2017) — Attention Is All You Need
+
+**LLM & Reasoning**
+- Wei et al. (2022) — Chain-of-Thought Prompting Elicits Reasoning in Large Language Models
+- Zhang et al. (2023) — Multimodal Chain-of-Thought Reasoning in Language Models
+- Zhang et al. (2024) — Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey
 
 ### Tech Stack
 
